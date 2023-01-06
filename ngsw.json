@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673004816785,
+  "timestamp": 1673006082242,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.84ccdcf8df1a420d.js",
+        "/main.c79d20746fab3b28.js",
         "/manifest.webmanifest",
         "/polyfills.39e5bae0138e990a.js",
         "/runtime.e5db23d2c03455d1.js",
@@ -67,8 +67,8 @@
     "/assets/image/lamp2.jpg": "3721bf642d2ec7c08a701045cfc06b5e16efd585",
     "/banner.9f9b17010c751964.jpg": "3f3344c7c4d4cfae8d07366622efc841311c845a",
     "/favicon.ico": "94c29c452eaa029c9dd95984b1979920cdca2744",
-    "/index.html": "01fc37a430ce42c4fc3b2bde45ec2c253357489f",
-    "/main.84ccdcf8df1a420d.js": "1159cfeff848373f4c0d54758797da46230f93c4",
+    "/index.html": "c94e7063975b39c590d3bc4f2cd90563878e77ad",
+    "/main.c79d20746fab3b28.js": "fe7ad1b62ddb7f0bf9e1e77a7e482121c213deb0",
     "/manifest.webmanifest": "fb8c44f752db71edbb207e9a5d89ff29d38c9f4b",
     "/polyfills.39e5bae0138e990a.js": "92a0108f3781bb9753c35df2c52e7a84650ced2b",
     "/runtime.e5db23d2c03455d1.js": "a684e53266a64ebea885640ec88ebdc7af64499d",
